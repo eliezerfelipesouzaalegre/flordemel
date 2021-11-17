@@ -1,0 +1,33 @@
+body {
+    background-image:radial-gradient(circle, #DAF7DC, #F397D6);
+    background-attachment:fixed; 
+    text-align:justify;   
+}
+h1 {
+   color:rgb(196, 169, 21);
+   font-size:70px;
+   background-color:rgba(211, 25, 164, 0.151); 
+   text-align:center;  
+}
+
+ul {
+    text-align:justify;
+    text-align:center;
+    background-color:rgb(222, 23, 240);
+    color:rgb(255, 255, 255);
+}
+a {
+    text-align:justify;
+    color:rgb(255, 255, 255);
+} 
+h2 {
+    text-align:center;
+    color:rgb(196, 169, 21);    
+}
+div {
+    width:1315px;
+    border:15px solid rgb(194, 172, 76);
+    padding:1px;
+    margin: 1px;
+    background-image:linear-gradient(to top, black, rgb(241, 138, 169));
+}
